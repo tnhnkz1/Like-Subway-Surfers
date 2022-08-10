@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 98bc34280e82a4946a752d20a1e653b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Coin: {fileID: 6505842336815115511, guid: 9e278cc3f6aa0b348858c8517de55dbf, type: 3}
+  - Magnet: {fileID: 4775252812294359641, guid: 57a856ddba3176142be5a098b725de8e, type: 3}
+  - Car: {fileID: 5608830794325076351, guid: f75d3eb0564b91648b6ec18719255bc8, type: 3}
+  - Log: {fileID: 4912526084486136179, guid: 685f39b7ed451d946b2166d57f35f094, type: 3}
+  - Stone: {fileID: 9124886221540447848, guid: 9e2fbe32ffd28f947a7d3440f2e8302e, type: 3}
+  - Score_TMP: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
